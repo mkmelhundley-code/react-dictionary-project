@@ -1,6 +1,7 @@
 import React from "react";
 import "./App.css";
 import Dictionary from "./Dictionary.jsx";
+import Footer from "./Footer.jsx";
 
 export default function App() {
   return (
@@ -9,18 +10,7 @@ export default function App() {
         <div>
           <h1>Dictionary Project</h1>
           <Dictionary />
-          <footer>
-            This app coded by{" "}
-            <a href="https://github.com/mkmelhundley-code">Melissa Hundley</a>{" "}
-            is open-source on{" "}
-            <a href="https://github.com/mkmelhundley-code/react-dictionary-project">
-              GitHub
-            </a>
-            , and hosted on{" "}
-            <a href="https://react-dictionary-project-pearl.vercel.app/">
-              Vercel.
-            </a>
-          </footer>
+          <Footer />
         </div>
       </div>
     </>

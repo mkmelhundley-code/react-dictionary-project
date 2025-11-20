@@ -1,9 +1,22 @@
 .word-search {
+  width: 100%;
   background-color: white;
-  border: 1px solid black;
+  border: 1px solid #724060;
+  border-radius: 4px;
   color: black;
+  padding: 10px;
 }
 
 .Dictionary section {
-  background-color: white;
+  background-color: rgba(247, 231, 232, 0.5);
+  border-radius: 8px;
+  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
+  padding: 30px;
+  margin-bottom: 20px;
+}
+
+.Dictionary .hint {
+  font-size: 14px;
+  opacity: 0.7;
+  font-style: italic;
 }

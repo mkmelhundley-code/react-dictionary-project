@@ -4,8 +4,8 @@ import "./Footer.css";
 export default function Footer() {
   return (
     <footer>
-      This app coded by{" "}
-      <a href="https://github.com/mkmelhundley-code">Melissa Hundley</a> is
+      This app is coded by{" "}
+      <a href="https://github.com/mkmelhundley-code">Melissa Hundley</a>, is
       open-source on{" "}
       <a href="https://github.com/mkmelhundley-code/react-dictionary-project">
         GitHub

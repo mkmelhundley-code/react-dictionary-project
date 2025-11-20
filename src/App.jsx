@@ -7,8 +7,12 @@ export default function App() {
   return (
     <>
       <div className="container">
+        <img
+          src="src/assets/MJH Design Studios Logo small.png"
+          alt="MJH Design Studios Logo"
+          className="logo"
+        />
         <div>
-          <h1>Dictionary Project</h1>
           <Dictionary defaultKeyword="dictionary" />
           <Footer />
         </div>

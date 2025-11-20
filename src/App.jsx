@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import "../public/MJH-ds-logo.png";
+import "/Users/melissahundley/Desktop/react-dictionary-project/public/MJH-ds-logo.png";
 import Dictionary from "./Dictionary.jsx";
 import Footer from "./Footer.jsx";
 

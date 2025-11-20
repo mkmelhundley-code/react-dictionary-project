@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import "../src/assets/MJH Design Studios Logo small.png";
+import "../public/MJH-ds-logo.png";
 import Dictionary from "./Dictionary.jsx";
 import Footer from "./Footer.jsx";
 
@@ -9,7 +9,7 @@ export default function App() {
     <>
       <div className="container">
         <img
-          src="../src/assets/MJH Design Studios Logo small.png"
+          src="../public/MJH-ds-logo.png"
           alt="MJH Design Studios Logo"
           className="logo"
         />

@@ -1,5 +1,6 @@
 import React from "react";
 import "./App.css";
+import "src/assets/MJH Design Studios Logo small.png";
 import Dictionary from "./Dictionary.jsx";
 import Footer from "./Footer.jsx";
 

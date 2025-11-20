@@ -5,14 +5,15 @@ body {
 
 .container {
   max-width: 800px;
-  margin: 0 auto;
+  margin: 0px auto;
   padding: 40px;
   font-family: Arial, sans-serif;
 }
 
-h1 {
-  text-align: center;
-  font-style: italic;
+.logo {
+  margin: 0 auto;
+  display: block;
+  max-height: 125px;
   padding-top: 5px;
-  padding-bottom: 10px;
+  padding-bottom: 20px;
 }

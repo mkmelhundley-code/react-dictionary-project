@@ -6,7 +6,7 @@ export default function Footer() {
     <footer>
       This app is coded by{" "}
       <a
-        href="https://github.com/mkmelhundley-code"
+        href="https://github.com/mjhdesignstudio"
         target="_blank"
         rel="noopener noreferrer"
       >
@@ -14,7 +14,7 @@ export default function Footer() {
       </a>
       , is open-source on{" "}
       <a
-        href="https://github.com/mkmelhundley-code/react-dictionary-project"
+        href="https://github.com/mjhdesignstudio/react-dictionary-project"
         target="_blank"
         rel="noopener noreferrer"
       >
